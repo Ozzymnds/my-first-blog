@@ -53,3 +53,16 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
     color: #000000;
 }
+
+.top-menu button {
+    background-color: #0a3ee9;
+    border: #0a3ee9;
+    color: #0a3ee9;
+    font-size: 20pt;
+    padding: 10px 20px;
+    visibility: hidden;
+}
+
+.form form{
+    visibility: hidden;
+}
